@@ -16,5 +16,3 @@ function Task({ task, index, completeTask, removeTask }) {
 }
 
 export default Task;
-
-//Source: https://pusher.com/tutorials/todo-app-react-hooks/#creating-a-new-task
